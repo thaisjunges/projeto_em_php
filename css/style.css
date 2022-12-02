@@ -3,7 +3,29 @@ body{
 }
 
 p{
-    
-    font-size: 48px;
+    font-size: 40px;
+}
 
+#container{
+    padding: 20px;
+    margin: 20px;
+    justify-content: center;
+    
+}
+
+#box{
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+}
+
+
+#texto{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid red;
 }
